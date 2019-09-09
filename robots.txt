@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gapohkaeph.usmint.ai/sitemap.xml
